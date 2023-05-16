@@ -1,2 +1,2 @@
-# Divya
+# no
 Implementing spectral security tool
